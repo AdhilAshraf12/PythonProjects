@@ -5,6 +5,6 @@ Welcome to my Python projects repository! This repository contains a collection 
 ## Projects
 
 - **Snake Game:** Just a simple Snake Game designed using Python and PyGame.
-  - [Link to Project 1](https://github.com/AdhilAshraf12/PythonProjects/tree/main/SnakeGame)
+  - [Link to Snake Game Directory](https://github.com/AdhilAshraf12/PythonProjects/tree/main/SnakeGame)
   
 Feel free to explore the projects and use them as a reference or for your own learning purposes. Happy coding!
