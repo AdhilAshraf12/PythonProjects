@@ -6,15 +6,15 @@ import os
 import sys
 
 pygame.init()
-screen = pygame.display.set_mode((1280, 720))
+screen = pygame.display.set_mode((800, 800))
 
 cols = 50
 rows = 50
 grid = [[0 for _ in range(rows)] for _ in range(cols)]
 openSet = []
 closedSet = []
-w = 1280 // cols
-h = 720 // rows
+w = 800 // cols
+h = 800 // rows
 
 class Spot:
     def __init__(self, x, y):
