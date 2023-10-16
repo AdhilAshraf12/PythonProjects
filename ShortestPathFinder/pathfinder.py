@@ -28,6 +28,7 @@ class Spot:
         self.obs = False
         self.closed = False
         self.value = 1
+        self.color = (255, 255, 255)
 
     def show(self, color, st):
         if not self.closed:
