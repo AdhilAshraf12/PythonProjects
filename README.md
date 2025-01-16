@@ -8,7 +8,7 @@ Welcome to my Python projects repository! This repository contains a collection 
   - [Link to Snake Game Directory](https://github.com/AdhilAshraf12/PythonProjects/tree/main/SnakeGame)
 
 - **A-star pathfinder with visualization:** 🎮 A shortest path finding application of two given coordinates using the a* path finding algorithm.
-  - [Link to Snake Game Directory](https://github.com/AdhilAshraf12/PythonProjects/tree/main/ShortestPathFinder)
+  - [Link to Path Finder Directory](https://github.com/AdhilAshraf12/PythonProjects/tree/main/ShortestPathFinder)
 
   
 Feel free to explore the projects and use them as a reference or for your own learning purposes. Happy coding! 😊
